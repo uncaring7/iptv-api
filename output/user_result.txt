@@ -1,31 +1,44 @@
 🕘️更新时间,#genre#
-2025-09-03 18:24:42,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+2025-09-04 06:23:47,https://www.freetv.top/migu/608807420.m3u8?migutoken=d46a7802f5e358560129ef9519cb7db38f9f355847dd255fb5ac47a4bf8e3c6b5b980b45749fb1cb373b654d43a6fc41c66a124ad66ee40a80f07e155334fe6f023993dc3f284f86ab66653797
 
 📺央视频道,#genre#
-CCTV-1,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=d46a7802f5e358560129ef9519cb7db38f9f355847dd255fb5ac47a4bf8e3c6b5b980b45749fb1cb373b654d43a6fc41c66a124ad66ee40a80f07e155334fe6f023993dc3f284f86ab66653797
+CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=3817ca50a762ff83bc8d334da331289af793521d8bb2de106288e3c7bfbd4f400da7b7a0d45e8e5f3908edbe997bc97435737ae08ccac404064b7de1ad9dd844f73147aa85407e91748754eaff
 CCTV-2,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
+CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=ab337350191d49738c0947c4edfb2d72445dadbfd53e36b287a30881028262fffbe9ba284ac062a14452f0d90c7a75d16101edb3adc14999ae8771aabc77b40c78d14137bb14e68fd6cd1a8d67
 CCTV-3,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
+CCTV-4,https://www.freetv.top/migu/631780421.m3u8?migutoken=8dc7b786c408976ee73b6ee5a0e7bf7de8ed82ed22f8668130fa8f17f943f9aeefa99d71320e4b5ac6c57c70025c65d2b4c31a9dfca1ebed552d0e3d722521423806670cc55bb626ba456b64fe
 CCTV-4,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
 CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
+CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=b9a1e6cdadb5b8fc55cd05842ff680e9431a4d403454162995bd1139d26f292521c72615e8117abc8d74479b46c5736b1db94eab7f190d661693f5f67f407d9aa7785ca59ef24515a844393c4e
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
 CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
+CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=408252ae4ee84d4533a52e87dc35e108f3557992d0837a3c98af9093fccdb78373328e743136467868d2125b1fa35c3f4d576327db5e3ec96ec3108e28e950fb462f2dc81da44be8ae43ebe0ce
+CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=280d56b37be81134b0c93f6d98009c732d89773dde0fe57536c5fd22070225a1ea90f8e9a57aba816bc16c695344e9e2579ade462746354c67f0756ba7e2f6d781d626fe43d2b35893ba7a4cdb
 CCTV-6,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
-CCTV-7,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
+CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=3253222269368c440aa1d23dba86c186a7b73abdea3890faf72e3d720844f8f1d3adc2b18ed047dbb3eff1a6c5d9379fad37d1f8a380d0e7c69e9ad6eb41709cf92077125fc0bded4cfd47808b
+CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=c5686b91f24bdb26f27f65d03991e67482244e2e4c81db01625a459eacd6085c8ca21c17dd1cd39379194ef1590bf3afe58308bfbdb911a41c0a5f83ee5f9db1749bb13f66d2a8daed0ddd2c42
+CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=0f1a623dca6f658303aaa4999b3ace15c780e46aa170dd3d91f0e82333ce6046e6bab6fa6948fba878c2b6e0cf9d1f04d09cc1ebaed71350ec282ef8595200813c491a3e23da08b3242755d891
 CCTV-9,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
+CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=1a5db77292df44fecb968ef668ab090a7c82238b19114752945a92ba9ec29e57ce0ad92b07b97b3cb4c6dd2adf0e09784884ac82d7325841dd730b589ed13204f702613169b1590d2cebc3a3c9
 CCTV-10,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
+CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=16827d54043eba69d051685229b1d0623c01f398f643b3a7d912c9929d6525025ef57eb61666d45bb70dfc86405aa336ca762f0bda4f0284d98eddae4042805df42661f954a1d40820829ec8c2
 CCTV-11,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
+CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=ca060ebeb7798a2bd7e8b8cb4143386b12a2629519220accd5fd0a77a147ab06630fd8cf65f82517ba9db18cc4b5c5edf350c0734fdddbc216781b9944d8e7eaf326bac636110e27fcd980f4e2
 CCTV-12,https://migu.188766.xyz/?migutoken=081e492d91f322784e7a210a96fafc93&id=CCTV12&pp=1
 CCTV-12,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
+CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=c2389cf5194aa51126151d56817f4b78c648be26d653da0ba123aedb4ac3bc7cf448bdf7e94a38f8a1d5ef942bd7584f21130d1702c97093596d8bf121dc9e10697c48b323b813404c8eff9ed6
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-13,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
+CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=1474d252464d0262ca3f07582748f3768a437115cb98649a10031e0d5681b87d30e16a623c48240db30de9831a46b6ab6040cacaab434ac72fa9ed65ccd886c33c6aab036f78698de7be28c8db
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
-CCTV-15,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
+CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=d46236e1f679dad891142868b96821ba336ddefe3e4cddd4bd824a7fb0dcbbaba9234379f3c3e8769f05d127936a3a11f0963e0728476ac62f93a56a69dfed36453b0c3516a4ed541829283d46
 CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
@@ -42,8 +55,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-五星体育,https://migu.188766.xyz/?migutoken=245ce021c8cbf7bdfc87b00952b97040&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
+劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
+劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
+劲爆体育,http://36.105.100.208:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 爱体育,rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil
@@ -57,15 +72,17 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
 超级体育,http://36.105.100.208:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-广州竞赛,https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&amp;txSecret=067c1cd334fe2f8773d9452993e86c78
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=057c43946c61f665a7cbbfef9f228555&txTime=1913a1cfc6d
 广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 江苏体育,https://migu.188766.xyz/?migutoken=77969fb082a75b798578427f3570edd2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 睛彩篮球,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
+睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://xiaoya.crccxw.top:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://www.douzhicloud.site:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://36.105.100.208:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
 快乐垂钓,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 快乐垂钓,http://nas.hssvm.com:8888/udp/225.1.2.18:5002
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -84,15 +101,24 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+风云剧场,http://120.238.94.10:9901/tsfile/live/1090_1.m3u8
+风云剧场,http://sh.lnott.top:880/dx94.m3u8
+风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
+风云剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
+风云剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
+风云剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
+风云剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=gf001&userid=gf001
 怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 女性时尚,https://cc06.tv12.xyz/95.m3u8
+女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
 电视指南,https://cc06.tv12.xyz/39.m3u8
-电视指南,http://ygbh.site/php/bfgd.php?id=164
 电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
+电视指南,http://ygbh.site/php/bfgd.php?id=164
+世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
@@ -108,41 +134,44 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 北京卫视,https://migu.188766.xyz/?migutoken=65c84621087220797980fa9982c3f8b5&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,https://migu.188766.xyz/?migutoken=9157c8aa7a594b5e3a23675f8f75f55b&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
+湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=c56229d02181e89502a31fa68a1d48da87a7d6a4964ef5258a8a1d13184947ea319f3785d758e1ca848971c9971b1300f65292cde26f5cb2902c9b103ac517b75c65bb0f9261dd650e6d2eab3b
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
+东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=39d71e54ce845693dcf18d448e47f4bcb96160d6a4d5cdce70a4b176510154f11641d32ad88b38d8c436057539f8e2fa3ec0ea15c8300f4bac8fcf7959caa82d1c409b9fbb89340797a38c624e
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
+东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=ad40cfb84c6c3a70e2f36f9419fde87147081bd969b8a7c270fde9e9dee90e1aabf8472344c1316a13639f26892f03cd1807f6b81db9976a0212ada2cdc1cdf9f9c01696f6478a7484eb04e6ef
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=b49395c0adad3f977a69d9555b7ec0e60a9f6076a9bd17687472774c39f5e60c68b55ab46fdf0d73b68a871b71b438163c9ae6604499693eb260ed04ebe98df3f12124410b199e0741f3429b11
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+吉林卫视,https://www.freetv.top/migu/947472500.m3u8?migutoken=250e0383e8b670fa08b2f4aa78646ab4e9e4735bed1322cea2c819836d2dadd00594d11d905be0e507f1b6ad9c856bff9f88ecb37c73574cc468f3487c6f0a09e3d08567a7abfc02dad5cf14b7
+江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=a05a40d6e6ed59e05b38b4ebfaa76f08e8b1477802d7e984802aa4997af44caac8ccf440496662d885f70a6d35fa54f4aa876e2a834e7f5026b626fb250dcc5d14ae02fa6247c3e070d256ea39
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
 江西卫视,https://migu.188766.xyz/?migutoken=ec5db662362dfc44c29d19ebabd3b6f7&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
+江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=b9ba9e2f06ddd219a9e3fb45641a0ba5c0b22ab5904c1b10ab603b4fe2eb30b2e40fdeba589cef7e7c40db7c4a0e66c90c48110a078a361a0975dd6ca0fd0a5de4c13b2c7699d4b0013a868ab6
+青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=1f19e5986a0a2ef4e7a8d09edf9a6b8faf270d5320ef4f13eaa876ea8a3ecc2263d1cd2dacb91ceadd6c38af23137707d164462be4cee5d1357c3a8289e0f87ebbce11f5d97c0daa3ac94ae7a1
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 陕西卫视,https://migu.188766.xyz/?migutoken=6c1651f4bfb19ef3318df9940f5030f0&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1
 
 🌊港·澳·台,#genre#
-翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,https://migu.188766.xyz/?migutoken=c2ce99db6ceb4f3baa575e3a0f10ba39&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+翡翠台,https://migu.188766.xyz/?migutoken=c2ce99db6ceb4f3baa575e3a0f10ba39&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-明珠台,https://migu.188766.xyz/?migutoken=bf0924af4389301debfca391cdfea3b4&id=pearl_twn&type=dy
-明珠台,https://live.tvfix.org/live/pearl/index.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰中文,https://migu.188766.xyz/?migutoken=93014ba7fdda4d83626853e9cfcfaebd&id=fhzw&pp=1
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-凤凰资讯,https://migu.188766.xyz/?migutoken=336fc68a6e20ac603e83e8adac90c1f4&id=fhzx&pp=1
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-凤凰香港,https://migu.188766.xyz/?migutoken=d2df4a28716c263064c5b08340b95e14&id=fhhk&pp=1
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -154,8 +183,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
