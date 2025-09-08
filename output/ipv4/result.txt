@@ -1,11 +1,7 @@
 🕘️更新时间,#genre#
-2025-09-08 06:26:45,http://121.60.56.116:10001/rtp/239.69.1.138:10466
+2025-09-08 18:28:00,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
 
 📺央视频道,#genre#
-CCTV-4,http://121.60.56.116:10001/rtp/239.69.1.138:10466
-CCTV-5,http://121.60.56.116:10001/rtp/239.69.1.123:10376
-CCTV-15,http://121.60.56.116:10001/rtp/239.69.1.155:10566
-CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
 
 🏀体育频道,#genre#
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
@@ -30,14 +26,14 @@ CCTV-16,http://121.60.56.116:10001/rtp/239.69.1.247:11124
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://123.168.95.21:4000/rtp/239.21.1.141:5002
 江苏体育,http://180.105.65.225:9981/rtp/239.49.8.117:8000
-江苏体育,http://180.127.140.151:19999/rtp/239.49.8.117:8000
 江苏体育,http://121.226.22.124:55555/rtp/239.49.8.117:8000
+江苏体育,http://180.127.140.151:19999/rtp/239.49.8.117:8000
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩广场舞,http://xiaoya.crccxw.top:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://www.douzhicloud.site:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://lt.hxtre.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://36.105.100.208:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 快乐垂钓,http://111.196.133.168:8012/rtp/239.3.1.164:8001
-快乐垂钓,http://121.60.56.116:10001/rtp/239.69.1.142:10488
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 🎥咪咕直播,#genre#
@@ -56,27 +52,19 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
+电视指南,http://ygbh.site/php/bfgd.php?id=164
 电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
-电视指南,http://ygbh.site/php/bfgd.php?id=164
 世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://120.76.248.139/live/bfgd/4200000109.m3u8
-山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://36.136.38.87:9901/tsfile/live/0118_1.m3u8
-山西卫视,http://113.26.202.52:1299/tsfile/live/0118_1.m3u8
-山西卫视,http://www.lizhinas.top:1009/rtp/239.252.219.27:5140
-山西卫视,http://nas.hssvm.com:8888/udp/225.1.1.50:5002
-山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
-山西卫视,http://111.227.196.164:9901/tsfile/live/0118_1.m3u8
-山西卫视,http://61.156.228.12:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -94,11 +82,9 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,http://iptv.4666888.xyz/iptv.php?id=20206
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
+东森综合,http://iptv.4666888.xyz/iptv.php?id=20206
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
-东森超视,http://iptv.4666888.xyz/iptv.php?id=20208
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
