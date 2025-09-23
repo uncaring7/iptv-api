@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-23 06:24:32,https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544
+2025-09-23 18:26:00,https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544
@@ -15,36 +15,32 @@ CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=6dccb38c956e0bb4edee
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=5bb8ab9294311f37faa3cdafb812e7239938f092b043159793626f7da52f6d93f4405a7674b273f3c7fa8d727fe739592096467fdead662c2b86ead7f5f30b097195cdba6fbe0b0f48b1b06a83
 CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=07b6e1d4124dd85ca8138b8d8dcd646323952053748d7d5ac0a2b31dcb6626c605fb05470545bd0f7e0d23e807e6909b517b2b8b5e2eaa926600edaa15d80aee9b900245924108c86040411cd4
+CCTV-10,http://110.177.144.22:9003/hls/11/index.m3u8
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=94966fdba4386de76a59ad1052a1c8095cf8663510a3916813c5e60acb984ae723c749b8fc8917a8201dcae662c135045ceb026cdb90e5c76804938cb26605a70e496eb6695eb30a63b32270a9
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=850e10c4b3e2559846e644627d1497207d19de95ff18847d49e0964a8624df5197b1262ebe2daea9c3cfc41d24fec5145f55e042a0eec5e360ac914bf90f7be722595f32839fa076275e91b466
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=85d3cf2d1e1511208a2074a3da420becee120fffec82c80e13e533bb191e19cba13d3f9831f111202869da1200838bc62ed7dcc00a437f0c3f013a2f2fbd4d23de657fbc5d9b1b4f432f49b15d
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=56c7feb8cb5f347901196e85642fd684252562a371f8eff91130c55f05b146a75525b0ded5bbd67d992fd86e47f3af37a5b87c9830db36e765e2b022af03ae4f28d4016c2f1bc9a60bc14d57b3
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=da6d2f0a50c0d2ccf5830584134b017533f7cff9f8483f5d99db04942d1fb2e65f1ee80072875ff98602f2953980c392524de2229b370059832da0fcdc26f899851f1166d08673d4747acd9f8a
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=7270a64d821d9de391cdabdf9685e61de5c0929c8486a24ac167aea6279189e5577fd24dce303030fbf1bec432df053fc57698fb48b6285a78bab608e954345314604511e497b104c51f5dc0cd
 CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
-CETV-1,https://migu.188766.xyz/
+CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-1,http://221.10.226.195:5000/rtp/239.0.0.51:5140
 CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
-CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
-CETV-1,http://180.154.61.39:4022/rtp/239.45.1.125:5140
 CETV-1,http://121.29.141.59:4022/rtp/239.253.92.211:6069
 CETV-1,http://112.109.206.106:9999/rtp/239.255.40.201:8208
+CETV-1,http://180.154.61.39:4022/rtp/239.45.1.125:5140
 CETV-1,http://223.167.245.215:8001/rtp/239.45.1.125:5140
 CETV-2,http://223.167.245.215:8001/rtp/239.45.1.52:5140
-CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
+CETV-4,http://221.10.226.195:5000/rtp/239.0.0.98:5140
 CETV-4,http://112.109.206.106:9999/rtp/239.255.40.31:8208
 CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 
 🏀体育频道,#genre#
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-五星体育,http://61.173.162.228:4022/rtp/239.45.3.210:5140
-体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
-劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
 爱体育,rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil
@@ -72,42 +68,25 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 💰央视付费频道,#genre#
 文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
 央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
-风云音乐,http://sh.lnott.top:880/dx73.m3u8
-风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
+央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
-风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
-风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
-风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
-风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 女性时尚,https://cc06.tv12.xyz/95.m3u8
+女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
-女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
 高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
-高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
-高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
-高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
 电视指南,https://cc06.tv12.xyz/39.m3u8
+电视指南,http://ygbh.site/php/bfgd.php?id=164
 电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
 电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
-电视指南,http://ygbh.site/php/bfgd.php?id=164
-世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-世界地理,http://183.11.239.36:808/hls/11/index.m3u8
-世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
-世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 
 📡卫视频道,#genre#
@@ -124,6 +103,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
+山东卫视,http://58.58.111.222:808/hls/57/index.m3u8?key=txiptv
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=793510585612abf02280cb9e867718e1ffc1b2726bc7b7acf484b6920cda841f1a80ac5947c612dfdd9c2fca36fc223c12bc6866708b30f66c4d2a2fe3164ae493381d8a6579b0707f413bc819
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
@@ -131,11 +111,11 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
 
 🌊港·澳·台,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
@@ -151,6 +131,11 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
+无线新闻,https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
