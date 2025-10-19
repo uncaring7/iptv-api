@@ -1,12 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-19 18:26:53,http://124.88.238.50:82/hls/2/index.m3u8
+2025-10-20 06:27:13,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 
 📺央视频道,#genre#
-CCTV-2,http://124.88.238.50:82/hls/2/index.m3u8
-CCTV-4,http://124.88.238.50:82/hls/4/index.m3u8
-CCTV-5,http://124.88.238.50:82/hls/5/index.m3u8
-CCTV-7,http://124.88.238.50:82/hls/7/index.m3u8
-CCTV-11,http://124.88.238.50:82/hls/10/index.m3u8
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
@@ -27,9 +22,12 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
+睛彩广场舞,http://www.douzhicloud.site:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://lt.hxtre.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+天元围棋,http://ygbh.site/php/bfgd.php?id=144
 快乐垂钓,http://111.196.133.168:8012/rtp/239.3.1.164:8001
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
 🎥咪咕直播,#genre#
 
@@ -41,13 +39,13 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
-风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
+风云音乐,http://218.8.87.96:4000/rtp/229.58.190.190:5000
 风云音乐,http://sh.lnott.top:880/dx73.m3u8
+风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
-风云音乐,http://218.8.87.96:4000/rtp/229.58.190.190:5000
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
@@ -66,21 +64,24 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://218.8.87.96:4000/rtp/229.58.190.29:5000
+兵器科技,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
+兵器科技,http://sh.lnott.top:880/dx81.m3u8
+兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-安徽卫视,http://124.88.238.50:82/hls/18/index.m3u8
-东方卫视,http://124.88.238.50:82/hls/15/index.m3u8
-河南卫视,http://124.88.238.50:82/hls/20/index.m3u8
-辽宁卫视,http://124.88.238.50:82/hls/21/index.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
+明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
