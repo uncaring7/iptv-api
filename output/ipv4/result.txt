@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2025-10-23 06:24:08,https://httop.top/tv-cctv3
+2025-10-23 18:30:52,http://1.31.14.70:54321/hls/13/index.m3u8
 
 📺央视频道,#genre#
-CCTV-3,https://httop.top/tv-cctv3
-CCTV-6,https://httop.top/tv-cctv6
-CETV-1,https://httop.top/tv-cetv1
+CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
+CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
+CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761355085-2257f0fc0c536efec9d5e684e4dea767-0-931767c17cbfd1d075f45baaf2788d7a
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 🏀体育频道,#genre#
@@ -26,8 +27,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
-睛彩广场舞,http://www.douzhicloud.site:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-睛彩广场舞,http://lt.hxtre.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 天元围棋,http://ygbh.site/php/bfgd.php?id=144
 快乐垂钓,http://111.196.133.168:8012/rtp/239.3.1.164:8001
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
@@ -42,13 +41,13 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
+风云音乐,http://218.8.87.96:4000/rtp/229.58.190.190:5000
 风云音乐,http://sh.lnott.top:880/dx73.m3u8
 风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
-风云音乐,http://218.8.87.96:4000/rtp/229.58.190.190:5000
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
@@ -67,21 +66,36 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://218.8.87.96:4000/rtp/229.58.190.29:5000
+兵器科技,http://sh.lnott.top:880/dx81.m3u8
+兵器科技,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
+兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-青海卫视,https://httop.top/tv-青海卫视
+东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
+甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
+广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
+贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
+河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
+河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8
+江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
+宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8
+青海卫视,http://1.31.14.70:54321/hls/43/index.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-新疆卫视,https://httop.top/tv-新疆卫视
+陕西卫视,http://1.31.14.70:54321/hls/46/index.m3u8
+深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
+西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8
+新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
+云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
