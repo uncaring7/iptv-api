@@ -1,15 +1,26 @@
 🕘️更新时间,#genre#
-2025-12-09 06:29:52,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-09 18:33:08,http://play.kankanlive.com/live/1698234869325962.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
+CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8
+CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
+CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8
+CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8
 CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
+CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
+CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
+CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
@@ -31,9 +42,7 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
-睛彩广场舞,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/.m3u8
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
-睛彩广场舞,http://www.douzhicloud.site:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 天元围棋,http://ygbh.site/php/bfgd.php?id=144
 快乐垂钓,http://111.196.133.168:8012/rtp/239.3.1.164:8001
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
@@ -49,12 +58,6 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,http://sh.lnott.top:880/dx73.m3u8
-风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
-风云音乐,http://171.125.90.120:6001/rtp/226.0.2.220:9672
-风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
-风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
-风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
-风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
@@ -75,6 +78,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 
