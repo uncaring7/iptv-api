@@ -1,17 +1,11 @@
 🕘️更新时间,#genre#
-2025-12-10 18:32:58,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+2025-12-11 06:30:16,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
-CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
-CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
@@ -34,7 +28,7 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
-风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
+睛彩广场舞,http://www.douzhicloud.site:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 天元围棋,http://ygbh.site/php/bfgd.php?id=144
 快乐垂钓,http://111.196.133.168:8012/rtp/239.3.1.164:8001
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
@@ -50,19 +44,31 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,http://sh.lnott.top:880/dx73.m3u8
+风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
+风云音乐,http://171.125.90.120:6001/rtp/226.0.2.220:9672
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
-女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
 女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
 电视指南,http://171.125.90.120:6001/rtp/226.0.2.218:9656
-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 世界地理,http://ygbh.site/php/bfgd.php?id=177
+世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
+世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
+世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 兵器科技,http://sh.lnott.top:880/dx81.m3u8
-兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 兵器科技,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
+兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
