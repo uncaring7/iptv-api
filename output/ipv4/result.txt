@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-23 18:33:19,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+2025-12-24 06:30:34,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
@@ -20,6 +20,9 @@ CETV-4,http://116.237.37.244:8888/rtp/239.45.0.21:5140
 🏀体育频道,#genre#
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 体育赛事,http://144.255.32.94:8288/rtp/239.21.2.44:5002
+劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
+劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
 爱体育,rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil
@@ -31,6 +34,7 @@ CETV-4,http://116.237.37.244:8888/rtp/239.45.0.21:5140
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
+精品体育,http://111.43.126.240:9003/hls/89/index.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 天津体育,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E4%BD%93%E8%82%B2&auth=666858
@@ -38,8 +42,8 @@ CETV-4,http://116.237.37.244:8888/rtp/239.45.0.21:5140
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
 风云足球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858
 天元围棋,http://ygbh.site/php/bfgd.php?id=144
-快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 快乐垂钓,http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/KLCDMPP360.m3u8
+快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 快乐垂钓,http://115.150.63.77:9902/tsfile/live/0001_42.m3u8
 快乐垂钓,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
 快乐垂钓,rtsp://115.153.245.70/PLTV/88888888/224/3221226834/59781974.smil
@@ -59,7 +63,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 风云音乐,http://171.83.103.119:9999/rtp/239.69.1.90:10180
 第一剧场,http://171.125.90.120:6001/rtp/226.0.2.221:9680
 怀旧剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
-怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.86:10156
+怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.89:10174
 女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 女性时尚,http://171.125.90.120:6001/rtp/226.0.2.226:9720
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
@@ -69,14 +73,20 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 世界地理,http://ygbh.site/php/bfgd.php?id=177
 世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-世界地理,http://183.11.239.36:808/hls/11/index.m3u8
-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 兵器科技,http://sh.lnott.top:880/dx81.m3u8
+兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
+兵器科技,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
+兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
+兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
