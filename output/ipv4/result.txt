@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-07 06:28:34,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+2026-01-07 18:32:41,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 
 📺央视频道,#genre#
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
@@ -35,13 +35,11 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 快乐垂钓,rtsp://115.153.247.80/PLTV/88888888/224/3221226834/59781974.smil
 快乐垂钓,rtsp://115.153.230.145/PLTV/88888888/224/3221226834/59781974.smil
 快乐垂钓,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226834/59781974.smil
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🎥咪咕直播,#genre#
 
 💰央视付费频道,#genre#
 文化精品,http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81&auth=666858
-央视台球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&auth=666858
 风云音乐,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
 怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.89:10174
 女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
