@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-01-30 18:41:20,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+2026-01-31 06:36:01,https://migu.188766.xyz/
 
 📺央视频道,#genre#
+CETV-1,https://migu.188766.xyz/
 
 🏀体育频道,#genre#
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
@@ -13,6 +14,7 @@
 🎥咪咕直播,#genre#
 
 💰央视付费频道,#genre#
+央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 
 📡卫视频道,#genre#
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
