@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-11 06:46:03,https://migu.188766.xyz/
+2026-02-11 18:58:32,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 
 📺央视频道,#genre#
-CETV-1,https://migu.188766.xyz/
 
 🏀体育频道,#genre#
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
