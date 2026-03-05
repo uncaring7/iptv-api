@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-05 18:46:00,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+2026-03-06 06:38:54,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
@@ -17,9 +17,8 @@ CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8&line=15
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9&line=3
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1373ffcb6e7c62fb45a5d151c96105d9
+CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11&line=5
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=14
-CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=14
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
@@ -46,8 +45,8 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
@@ -60,6 +59,13 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.89:10174
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+女性时尚,http://vapi.91kds.cc/live1/udp.m3u8?ip=hubei-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=239.69.1.86:10156
+女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
+女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
+女性时尚,rtsp://139.215.98.88/PLTV/88888888/224/3221225745/10000100000000060000000014253993_0.smil
+女性时尚,rtsp://222.161.218.244:554/PLTV/88888888/224/3221225745/10000100000000060000000014253993_0.smil
 高尔夫网球,http://171.83.103.119:9999/rtp/239.69.1.83:10138
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
@@ -99,12 +105,15 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
 纬来育乐,rtmp://60.248.77.83/sat/tv701
+纬来育乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LytB8PAWI5qHeUwo-0QWCs1A9pvx7CTVkX2S2BjFC9v_4VTOc_w8J6K6W0LmW8qDcIRNVjqwzlr6XAQODOJcYhoYrqJN-1kg5KNwb5OGLSM-DXI5Ny2_gglov0OFanF_bcaiIaTxmEtBkPvG6W3OUaiSSijmdpKngqt4Isvd4GkxUXoK3KpjQy_lIMwFTzaWjtA.m3u8?u=1756878715
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+三立台湾,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyk_bgvynoks0SJDnLN4CmXc_Ph60csuAp6s8D-jOpyhneWu9PyXlnq4zmHkKe6SaaD8MDmus4XtV25_a4J5Nf689R2uM9deDWtKl-KdUahWIG340ihT8YFmCOF-c9T7S-OxX8f8zQx0rLt0lK2RW2C_W-DkxBnLt7n06iBCJ_3ayH_DHrGZxg1THdn9djYM7UQ.m3u8?u=1756878715
 三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
-靖天资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3atzbtvCRGQ3MDg4rhDwXJUo27Wne7i2ic9WsH8-j4buWEQhUJx9QjfA2z6UKJyuHpLAOOdcN21nHCraYsxN_eYkwHk1rEyYvQUiDqLXEVzJAA4f-hmzVB_5Lwfo6SxCisWIBEG_u3wFU-dg0dSYIr7H1w22lPl_b55igxNT51gLExSH5ldcRagBv1xkvpNk0w2A.m3u8?u=1756878715
+东森综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715
 靖天资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5055
+靖天资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3atzbtvCRGQ3MDg4rhDwXJUo27Wne7i2ic9WsH8-j4buWEQhUJx9QjfA2z6UKJyuHpLAOOdcN21nHCraYsxN_eYkwHk1rEyYvQUiDqLXEVzJAA4f-hmzVB_5Lwfo6SxCisWIBEG_u3wFU-dg0dSYIr7H1w22lPl_b55igxNT51gLExSH5ldcRagBv1xkvpNk0w2A.m3u8?u=1756878715
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
 靖天资讯,http://nmk.ioapk.com:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
 靖天资讯,http://220.135.64.124:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
