@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-06 19:32:51,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
+2026-06-07 07:09:56,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 
 📺央视频道,#genre#
 
@@ -14,7 +14,6 @@
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-海南卫视,http://a.xiongnas.top:8888/rtp/239.3.1.45:8304
 
 🌊港·澳·台,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
