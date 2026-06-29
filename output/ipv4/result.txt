@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-29 07:07:51,http://www.negative.top:50000/rtp/233.50.200.101:5140
+2026-06-29 22:09:37,http://www.negative.top:50000/rtp/233.50.200.101:5140
 
 📺央视频道,#genre#
 CCTV-4,http://www.negative.top:50000/rtp/233.50.200.101:5140
@@ -13,12 +13,12 @@ CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=2
 CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=2
 CCTV-17,http://198.204.228.26/live/cctv17hd.m3u8
-CETV-1,https://iptv.catvod.com/live.php?id=CETV1&line=1
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
+CETV-1,https://iptv.catvod.com/live.php?id=CETV1&line=1
 CETV-1,http://183.220.20.17:4321/rtp/239.11.0.139:5140
-CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
+CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
@@ -40,26 +40,26 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
-风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 🎥咪咕直播,#genre#
 
 💰央视付费频道,#genre#
-文化精品,http://192.151.150.154/live/ysjp.m3u8
 文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+文化精品,http://192.151.150.154/live/ysjp.m3u8
 央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐,http://107.150.60.122/live/fyyy.m3u8
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 女性时尚,http://192.151.150.154/live/nxss.m3u8
-高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
+高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 世界地理,http://192.151.150.154/live/sjdl.m3u8
-兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
+兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
@@ -76,14 +76,16 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 山西卫视,http://198.204.228.26/live/sxwshd.m3u8
+山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8
 山西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd
-山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
+深圳卫视,http://111.8.224.6:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&line=2
 
 🌊港·澳·台,#genre#
