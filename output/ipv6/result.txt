@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-26 07:03:52,https://cdn.qd.je/163189/gdty
+2026-07-26 19:28:14,https://cdn.qd.je/163189/gdty
 
 📺央视频道,#genre#
 
 🏀体育频道,#genre#
 广东体育,https://cdn.qd.je/163189/gdty
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 
 🎥咪咕直播,#genre#
 
@@ -17,3 +16,4 @@
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
