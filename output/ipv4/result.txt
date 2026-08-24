@@ -1,22 +1,44 @@
 🕘️更新时间,#genre#
-2026-08-24 06:29:06,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+2026-08-24 18:45:56,http://101.66.198.55:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://101.66.198.55:9901/tsfile/live/0001_1.m3u8
+CCTV-1,http://101.66.198.179:9901/tsfile/live/0001_1.m3u8
+CCTV-2,http://101.66.198.55:9901/tsfile/live/0002_1.m3u8
+CCTV-2,http://101.66.198.179:9901/tsfile/live/0002_1.m3u8
+CCTV-2,http://101.66.198.245:9901/tsfile/live/0002_1.m3u8
+CCTV-3,http://101.66.198.55:9901/tsfile/live/0003_1.m3u8
+CCTV-3,http://101.66.198.179:9901/tsfile/live/0003_1.m3u8
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+CCTV-5,http://101.66.198.55:9901/tsfile/live/0005_1.m3u8
+CCTV-5,http://101.66.198.245:9901/tsfile/live/0005_1.m3u8
+CCTV-6,http://101.66.198.55:9901/tsfile/live/0006_1.m3u8
+CCTV-6,http://101.66.198.245:9901/tsfile/live/0006_1.m3u8
+CCTV-9,http://101.66.198.179:9901/tsfile/live/0009_1.m3u8
+CCTV-9,http://101.66.198.55:9901/tsfile/live/0009_1.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-10,http://101.66.198.179:9901/tsfile/live/0010_1.m3u8
+CCTV-10,http://101.66.198.55:9901/tsfile/live/0010_1.m3u8
+CCTV-11,http://101.66.198.179:9901/tsfile/live/0011_1.m3u8
+CCTV-11,http://101.66.198.55:9901/tsfile/live/0011_1.m3u8
+CCTV-13,http://101.66.198.245:9901/tsfile/live/0013_1.m3u8
+CCTV-13,http://101.66.198.179:9901/tsfile/live/0013_1.m3u8
+CCTV-13,http://101.66.198.55:9901/tsfile/live/0013_1.m3u8
+CCTV-14,http://101.66.198.179:9901/tsfile/live/0014_1.m3u8
+CCTV-14,http://101.66.198.55:9901/tsfile/live/0014_1.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
+CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
-CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 🏀体育频道,#genre#
-劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 爱体育,rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227315/10000100000000060000000001946406_0.smil
@@ -48,12 +70,6 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-电视指南,http://45.192.97.170:8880/play/2138.m3u8
-电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
-电视指南,rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil
-电视指南,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil
-电视指南,rtsp://139.215.98.88/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
-电视指南,rtsp://222.161.218.244:554/PLTV/88888888/224/3221225831/10000100000000060000000014313398_0.smil
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8
 兵器科技,https://live.264788.xyz/channel/bingqikeji
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
@@ -71,14 +87,15 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
+凤凰中文,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34629
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
+凤凰资讯,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34641
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
 纬来育乐,rtmp://60.248.77.83/sat/tv701
